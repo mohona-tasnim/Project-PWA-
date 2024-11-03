@@ -21,8 +21,8 @@ self.addEventListener
                            '/index.html',   
                                 '/styles.css',    
                                     '/script.js',  
-                                          'Default.png',  
-                                                'Icon.png'  
+                                          '/Default.png',  
+                                                '/Icon.png'  
                                                     ]);
                                                         })
                                                           );
